@@ -39,7 +39,7 @@ export function Sidebar() {
           <div className="space-y-4">
             <a href="tel:+27123456789" className="flex items-center text-sm text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400">
               <Phone className="w-4 h-4 mr-2" />
-              +27 12 345 6789
+              +27 81 347 9054
             </a>
             <a href="mailto:info@luxstay.co.za" className="flex items-center text-sm text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400">
               <Mail className="w-4 h-4 mr-2" />
@@ -49,7 +49,7 @@ export function Sidebar() {
               <MapPin className="w-4 h-4 mr-2" />
               View on Map
             </a>
-            <a href="https://wa.me/27123456789" target="_blank" rel="noopener noreferrer" className="flex items-center text-sm text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400">
+            <a href="https://wa.me/27813479054" target="_blank" rel="noopener noreferrer" className="flex items-center text-sm text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400">
               <MessageSquare className="w-4 h-4 mr-2" />
               WhatsApp Us
             </a>
